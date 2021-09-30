@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">BlocNote</string>
+    <string name="btn_add_txt">Ajouter</string>
+    <string name="new_note_txt">Titre de la note</string>
+    <string name="message_new_note">Veuillez choisir un titre pour la note:</string>
+    <string name="btn_save_txt">Sauvegarder</string>
+    <string name="erase_note_title">Supprimer une note</string>
+    <string name="message_erase_note">"Voulez vous supprimer la note: "</string>
+    <string name="update_title">Renommer la note</string>
+    <string name="message_update_note">Veuiller renommer la note</string>
+    <string name="mi_categories">Catégories</string>
+    <string name="tv_categories_txt">Catégories</string>
+    <string name="bt_add_categorie_txt">Ajouter une catégories</string>
+    <string name="new_label">Catégorie</string>
+    <string name="message_new_label">Veuillez choisir un nom de catégorie:</string>
+    <string name="update_categorie">Renommer le catégorie</string>
+    <string name="message_update_categorie">Veuillez renommer la catégorie</string>
+    <string name="erase_categorie_title">Supprimer une catégorie</string>
+    <string name="message_erase_categorie">Voulez vous supprimer</string>
+    <string name="detail_no_categorie_txt">Aucune catégorie</string>
+    <string name="edt_search_hint">Recherche...</string>
+    <string name="list_main_categorie">--Toutes catégorie--</string>
+    <string name="list_categorie_aucune">Aucune catégorie</string>
+    <string name="btn_cancel_txt">Annuler</string>
+    <string name="btn_yes_txt">Oui</string>
+    <string name="btn_no_txt">Non</string>
+    <string name="toast_error_name_txt">Nom incorrect</string>
+    <string name="btn_rename_txt">Renommer</string>
+    <string name="btn_ok_txt">Ok</string>
+    <string name="toast_note_save">Note sauvegardée</string>
+    <string name="toast_error_save">Une erreur est survenu</string>
+    <string name="toast_error_erase_label">Une note est associer à la catégorie</string>
+
+</resources>
